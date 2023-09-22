@@ -5,9 +5,9 @@
             <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
                 <BuildableReference
                     BuildableIdentifier="primary"
-                    BlueprintIdentifier="YOUR_BLUEPRINT_ID"
-                    BuildableName="YourAppName.app"
-                    BlueprintName="YourAppName"
+                    BlueprintIdentifier="0661A53E204FYZ5300965E4E"
+                    BuildableName="Al.Safwa"
+                BlueprintName="Al-Safwa-Auto-Parts"
                     ReferencedContainer="container:YourAppName.xcodeproj">
                 </BuildableReference>
             </BuildActionEntry>
@@ -21,7 +21,7 @@
         <BuildableProductRunnable>
             <BuildableReference
                 BuildableIdentifier="primary"
-                BlueprintIdentifier="YOUR_0661A53E204FYZ5300965E4E"
+                BlueprintIdentifier="0661A53E204FYZ5300965E4E"
                 BuildableName="Al.Safwa"
                 BlueprintName="Al-Safwa-Auto-Parts"
                 ReferencedContainer="container:project.xcodeproj">
