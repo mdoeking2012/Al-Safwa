@@ -388,7 +388,7 @@
 				504EC3141FED79650016851F /* Debug */,
 				504EC3151FED79650016851F /* Release */,
 			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationIsVisible = 1;
 			defaultConfigurationName = Release;
 		};
 		504EC3161FED79650016851F /* Build configuration list for PBXNativeTarget "App" */ = {
@@ -397,7 +397,7 @@
 				504EC3171FED79650016851F /* Debug */,
 				504EC3181FED79650016851F /* Release */,
 			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationIsVisible = 1;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
